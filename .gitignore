@@ -1,0 +1,30 @@
+# Secrets and local environments
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kaggle.json
+credentials.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+
+# Don't commit downloaded or generated datasets
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+*.sqlite
+*.db
+
+# Machine learning artifacts
+models/*.pkl
+models/*.joblib
+models/*.onnx
+mlruns/
