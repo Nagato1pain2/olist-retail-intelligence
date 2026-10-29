@@ -14,7 +14,7 @@ validate data limitations, and eventually build analytics, customer segmentation
 without evidence, or call sales revenue "profit" without cost data.
 
 ## Contributors
-- **Mahmoud** — Data Scientist (GitHub profile: to be linked)
+- **Mahmoud** — Data Scientist ([GitHub: Mahmoud-Bekhit](https://github.com/Mahmoud-Bekhit))
 - **Ahmed** — Data Scientist (GitHub profile: to be linked)
 
 Both teammates contribute through their own GitHub accounts, branches, commits, and pull requests.
